@@ -104,14 +104,14 @@ h1{
 }
 
 .vid{
-    width:60%; 
-    height:600px;
+    min-width:45em; 
+    height:30em;
     display:block;
     margin:auto;
 }
 
 .md-nav__item{
-    font-weight: 500;
-    font-family: 'Roboto';
+    font-weight: 900;
+    /* font-family: 'Roboto'; */
     font-size: 15pt;
 }
