@@ -71,6 +71,7 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - macros
   - mkdocs-video
   - search
 nav:
