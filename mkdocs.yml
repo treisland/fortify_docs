@@ -77,14 +77,26 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - Quick-Start:
+  - Docs:
     - IDE Integrations: 
       - Overview: 'ide/home.md'
       - Eclipse: 'ide/eclipse.md'
       - IntelliJ: 'ide/intellij.md'
       - VSCode: 'ide/vscode.md'
       - Visual Studio: 'ide/visualstudio.md'
-    - CI/CD Integrations: 'quickstart/cicd.md'
+    - CI/CD Integrations: 
+      - Overview: 'cicd/home.md'
+      - Azure DevOps: 'cicd/azuredevops.md'
+      - Github: 'cicd/github.md'
+      - Gitlab: 'cicd/gitlab.md'
+      - Jenkins: 'cicd/jenkins.md'
+      - FortifyCI: 'cicd/fortifyci.md'
+    - BugTrackers: 
+      - Overview: 'bugtracker/home.md'
+      - Azure DevOps: 'bugtracker/azuredevops.md'
+      - Jira: 'bugtracker/jira.md'
+      - Gitlab: 'bugtracker/gitlab.md'
+      - Github: 'bugtracker/github.md'
   - References: references.md
   - Product Page: 'https://www.microfocus.com/en-us/cyberres/application-security'
   - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'
