@@ -77,22 +77,21 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - Docs:
+  - Guides:
     - IDE Integrations: 
-      - Overview: 'ide/home.md'
+      - 'ide/README.md'
       - Eclipse: 'ide/eclipse.md'
       - IntelliJ: 'ide/intellij.md'
       - VSCode: 'ide/vscode.md'
       - Visual Studio: 'ide/visualstudio.md'
     - CI/CD Integrations: 
-      - Overview: 'cicd/home.md'
+      - 'cicd/README.md'
       - Azure DevOps: 'cicd/azuredevops.md'
       - Github: 'cicd/github.md'
       - Gitlab: 'cicd/gitlab.md'
       - Jenkins: 'cicd/jenkins.md'
-      - FortifyCI: 'cicd/fortifyci.md'
     - BugTrackers: 
-      - Overview: 'bugtracker/home.md'
+      - 'bugtracker/README.md'
       - Azure DevOps: 'bugtracker/azuredevops.md'
       - Jira: 'bugtracker/jira.md'
       - Gitlab: 'bugtracker/gitlab.md'
