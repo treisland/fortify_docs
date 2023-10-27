@@ -35,7 +35,8 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.path
-    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -77,6 +78,16 @@ plugins:
 nav:
   - Home: index.md
   - Quick-Start:
-    - IDE Integrations: 'quickstart/ide.md'
+    - IDE Integrations: 
+      - Overview: 'ide/home.md'
+      - Eclipse: 'ide/eclipse.md'
+      - IntelliJ: 'ide/intellij.md'
+      - VSCode: 'ide/vscode.md'
+      - Visual Studio: 'ide/visualstudio.md'
     - CI/CD Integrations: 'quickstart/cicd.md'
   - References: references.md
+  - Product Page: 'https://www.microfocus.com/en-us/cyberres/application-security'
+  - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'
+  - Fortify Unplugged: 'https://www.youtube.com/@FortifyUnplugged'
+  - Community: 'https://community.microfocus.com/cyberres/fortify/'
+  - Support Portal: 'https://www.microfocus.com/en-us/support/login'
