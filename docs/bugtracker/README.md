@@ -1,6 +1,6 @@
 # Bug Tracker Integration
 
-[:simple-azurepipelines: Azure DevOps](/bugtracker/azuredevops){ .card-button }
-[:simple-jira: Jira](/bugtracker/jira){ .card-button }
-[:simple-gitlab: GitLab](/bugtracker/gitlab){ .card-button }
-[:simple-github: Github](/bugtracker/github){ .card-button }
+[:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }
+[:simple-jira: Jira](./jira){ .card-button }
+[:simple-gitlab: GitLab](./gitlab){ .card-button }
+[:simple-github: Github](./github){ .card-button }
