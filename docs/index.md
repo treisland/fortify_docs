@@ -93,14 +93,6 @@ There are a number of different ways to scan that's because Fortify focusing on 
 
     [:material-card-account-details-star: Learn More](https://www.youtube.com/watch?v=842xfEdl4JE){ .md-button }
 
-### :fontawesome-solid-laptop-code: <span class="marquee">**IDE Integrations**</span>
-
-[:simple-eclipseide: Eclipse](quickstart/ide/#eclipse){ .md-button }
-[:simple-intellijidea: IntelliJ](quickstart/ide/#intellij-and-android){ .md-button }
-
-
-[:material-microsoft-visual-studio-code: VS Code](quickstart/ide/#vs-code){ .md-button }
-[:material-microsoft-visual-studio: Visual Studio](quickstart/ide/#visual-studio){ .md-button }
 
 ### :material-circle-double: <span class="marquee">**CI/CD Integrations**</span>
 

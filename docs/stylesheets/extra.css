@@ -115,3 +115,28 @@ h1{
     /* font-family: 'Roboto'; */
     font-size: 15pt;
 }
+
+/* Custom card button style */
+.card-button {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center; /* Center the text horizontally */
+    align-items: center; /* Center the text vertically */
+    width: 250px; /* Set the desired width */
+    height: 200px; /* Set the desired height */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    background-color: #fff;
+    text-align: center; /* Optionally center the text horizontally */
+    text-decoration: none;
+    font-size: 20pt;
+    color: #333;
+    transition: background-color 0.3s;
+    margin: 10px; /* Add margin for spacing */
+  }
+  
+  .card-button:hover {
+    background-color: #f2f2f2;
+  }
+  
