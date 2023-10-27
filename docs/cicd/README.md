@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # CI/CD Integrations
 
 [:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }

@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Bug Tracker Integration
 
 [:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }

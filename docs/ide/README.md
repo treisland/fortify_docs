@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Fortify IDE Integrations
 
 [:simple-eclipseide: Eclipse](./eclipse){ .card-button  }
