@@ -1,4 +1,4 @@
-# :material-circle-double: CI/CD Integrations
+# CI/CD Integrations
 
 [:simple-azurepipelines: Azure DevOps](/cicd/azuredevops){ .card-button }
 [:simple-github: Github](/cicd/github){ .card-button }
