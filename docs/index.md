@@ -93,9 +93,3 @@ There are a number of different ways to scan that's because Fortify focusing on 
 
     [:material-card-account-details-star: Learn More](https://www.youtube.com/watch?v=842xfEdl4JE){ .md-button }
 
-### :fontawesome-solid-bug: <span class="marquee">**Bug Tracker Integration**</span>
-
-[:simple-azurepipelines: Azure DevOps](#){ .md-button }
-[:simple-jira: Jira](#){ .md-button }
-[:simple-gitlab: GitLab](#){ .md-button }
-[:simple-github: Github](#){ .md-button }
