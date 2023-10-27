@@ -1,6 +1,6 @@
 # CI/CD Integrations
 
-[:simple-azurepipelines: Azure DevOps](/cicd/azuredevops){ .card-button }
-[:simple-github: Github](/cicd/github){ .card-button }
-[:simple-gitlab: Gitlab](/cicd/gitlab){ .card-button }
-[:simple-jenkins: Jenkins](/cicd/jenkins){ .card-button }
+[:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }
+[:simple-github: Github](./github){ .card-button }
+[:simple-gitlab: Gitlab](./gitlab){ .card-button }
+[:simple-jenkins: Jenkins](./jenkins){ .card-button }
