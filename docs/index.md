@@ -93,16 +93,6 @@ There are a number of different ways to scan that's because Fortify focusing on 
 
     [:material-card-account-details-star: Learn More](https://www.youtube.com/watch?v=842xfEdl4JE){ .md-button }
 
-
-### :material-circle-double: <span class="marquee">**CI/CD Integrations**</span>
-
-[:simple-azurepipelines: Azure DevOps](quickstart/cicd/#azuredevops){ .md-button }
-[:simple-github: Github](quickstart/cicd/#github){ .md-button }
-
-[:simple-gitlab: Gitlab](quickstart/cicd/#gitlab){ .md-button }
-[:simple-jenkins: Jenkins](quickstart/cicd/#jenkins){ .md-button }
-[:fortify-cyberres: Fortify CI](quickstart/cicd/#fortifyci){ .md-button }
-
 ### :fontawesome-solid-bug: <span class="marquee">**Bug Tracker Integration**</span>
 
 [:simple-azurepipelines: Azure DevOps](#){ .md-button }
