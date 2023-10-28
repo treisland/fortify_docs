@@ -1,6 +1,7 @@
 site_name: Fortify DevOps Guide
 base_url: /fortify-dev-guide
 repo_url: https://github.com/treisland/fortify_docs_mkdocs
+edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -9,6 +10,8 @@ theme:
   font:
     text: Poppins
   logo: assets/cyberres-opentext.png
+  icon:
+    repo: fontawesome/brands/github
   favicon: assets/logo-fortify.png
   palette:
     - scheme: default
@@ -27,6 +30,7 @@ theme:
         name: Switch to light mode
   features:
     - announce.dismiss
+    - content.action.edit
     - content.code.annotate
     - content.code.copy
     - content.tooltips
@@ -75,6 +79,9 @@ plugins:
   - macros
   - mkdocs-video
   - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: timeago
 nav:
   - Home: index.md
   - Platform: 'platform_tools/index.md'
