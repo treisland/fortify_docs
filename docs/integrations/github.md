@@ -1,4 +1,4 @@
-# :simple-github: BugTracker Integration - Github
+# :simple-github: Github
 
 :construction: This page is currently under construction
 

@@ -1,11 +1,6 @@
----
-hide:
-    - toc
----
-
 # Integrations 
 
-## :octicons-code-16: IDE
+## :octicons-code-16: IDEs
 
 [:simple-android: Android Studio](./androidstudio){ .card-button }
 [:simple-eclipseide: Eclipse](./eclipse){ .card-button  }
@@ -13,14 +8,14 @@ hide:
 [:material-microsoft-visual-studio-code: VS Code](./vscode){ .card-button  }
 [:material-microsoft-visual-studio: Visual Studio](./visualstudio){ .card-button }
 
-## :simple-mlflow: CI/CD Integrations
+## :simple-mlflow: CI/CD
 
 [:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }
 [:simple-github: Github](./github){ .card-button }
 [:simple-gitlab: Gitlab](./gitlab){ .card-button }
 [:simple-jenkins: Jenkins](./jenkins){ .card-button }
 
-## :material-shield-bug-outline: Bug Tracker Integration
+## :material-shield-bug-outline: Bug Trackers
 
 <!-- [:simple-azurepipelines: Azure DevOps](./azuredevops#bugtracking){ .card-button } -->
 [:simple-jira: Jira](./jira){ .card-button }

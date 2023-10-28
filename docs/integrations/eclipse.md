@@ -1,4 +1,4 @@
-# :simple-eclipseide: Fortify IDE Integration - Eclipse
+# :simple-eclipseide: Eclipse
 
 
 ## Overview

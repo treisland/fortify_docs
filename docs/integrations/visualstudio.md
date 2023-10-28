@@ -1,4 +1,4 @@
-# :material-microsoft-visual-studio: Fortify IDE Integration - Visual Studio
+# :material-microsoft-visual-studio: Visual Studio
 
 
 ## Docs & Links

@@ -1,4 +1,4 @@
-# :simple-android: Fortify IDE Integration - Android Studio
+# :simple-android: Android Studio
 
 :construction: This page is currently under construction
 
