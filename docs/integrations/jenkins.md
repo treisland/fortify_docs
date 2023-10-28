@@ -1,4 +1,4 @@
-# :simple-jenkins:  CI/CD Integration - Jenkins
+# :simple-jenkins: Jenkins
 
 :construction: This page is currently under construction
 

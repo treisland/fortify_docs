@@ -1,4 +1,4 @@
-# :simple-gitlab: BugTracker Integration - Gitlab
+# :simple-gitlab: Gitlab
 
 :construction: This page is currently under construction
 

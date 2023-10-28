@@ -1,4 +1,4 @@
-# :simple-intellijidea: Fortify IDE Integration - IntelliJ
+# :simple-intellijidea: IntelliJ
 
 
 

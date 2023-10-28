@@ -1,4 +1,4 @@
-# :material-microsoft-visual-studio: Fortify IDE Integration - VSCode
+# :material-microsoft-visual-studio: VSCode
 
 ## Overview
 

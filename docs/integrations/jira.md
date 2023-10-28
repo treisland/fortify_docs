@@ -1,4 +1,4 @@
-# :simple-jira: BugTracker Integration - Jira
+# :simple-jira: Jira
 
 :construction: This page is currently under construction
 

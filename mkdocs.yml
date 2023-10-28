@@ -77,6 +77,7 @@ plugins:
   - search
 nav:
   - Home: index.md
+  - Platform: 'platform_tools/index.md'
   - Integrations: 
     - 'integrations/index.md'
     - IDE:
@@ -85,7 +86,7 @@ nav:
       - IntelliJ: 'integrations/intellij.md'
       - Visual Studio: 'integrations/visualstudio.md'
       - Visual Studio Code: 'integrations/vscode.md'
-    - CICD:
+    - CI/CD:
       - Azure DevOps: 'integrations/azuredevops.md'
       - Github: 'integrations/github.md'
       - Gitlab: 'integrations/gitlab.md'
