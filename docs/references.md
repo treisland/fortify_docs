@@ -5,6 +5,7 @@
 !!! warning ""
     Here you fill find helpful resources to get you up to speed on the suite of Fortify products and how you can use them to best fit your needs.
     
+
 !!! info inline "Training"
 
     :material-google-classroom: [Cyberres After Hours Training](https://community.microfocus.com/cyberres/fortify/fortify-education-after-hours/f/forum/509597/direct-one-click-quick-access-to-our-free-fortify-digital-learning-offerings/1902189){:target="_blank"}
