@@ -17,7 +17,7 @@
     [:fortify-cyberres: Security Assistant](){ .card-button }
     [:fortify-cyberres: Audit Assistant](){ .card-button  }
 
-## Softare Composition Analysis
+## Software Composition Analysis
 !!! info "scan 3rd party libraries for vulnerabilities"
     [:fortify-cyberres: Debricked](){ .card-button  }
     [:fortify-cyberres: SonaType](){ .card-button  }
