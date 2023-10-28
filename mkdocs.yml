@@ -29,8 +29,8 @@ theme:
     - announce.dismiss
     - content.code.annotate
     - content.code.copy
-    - content.tabs.link
     - content.tooltips
+    - navigation.indexes
     - navigation.footer
     - navigation.instant
     - navigation.path
@@ -77,10 +77,21 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - Integrations: 'integrations/README.md'
-  - References: references.md
-  - Product Page: 'https://www.microfocus.com/en-us/cyberres/application-security'
+  - Integrations: 
+    - 'integrations/index.md'
+    - IDE:
+      - Android Studio: 'integrations/androidstudio.md'
+      - Eclipse: 'integrations/eclipse.md'
+      - IntelliJ: 'integrations/intellij.md'
+      - Visual Studio: 'integrations/visualstudio.md'
+      - Visual Studio Code: 'integrations/vscode.md'
+    - CICD:
+      - Azure DevOps: 'integrations/azuredevops.md'
+      - Github: 'integrations/github.md'
+      - Gitlab: 'integrations/gitlab.md'
+      - Jenkins: 'integrations/jenkins.md'
+    - BugTracking:
+      - Jira: 'integrations/jira.md'
+    
+  - Resources: 'resources.md'
   - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'
-  - Fortify Unplugged: 'https://www.youtube.com/@FortifyUnplugged'
-  - Community: 'https://community.microfocus.com/cyberres/fortify/'
-  - Support Portal: 'https://www.microfocus.com/en-us/support/login'

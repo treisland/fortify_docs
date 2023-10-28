@@ -13,7 +13,7 @@ hide:
 [:material-microsoft-visual-studio-code: VS Code](./vscode){ .card-button  }
 [:material-microsoft-visual-studio: Visual Studio](./visualstudio){ .card-button }
 
-## :fontawesome-solid-recycle: CI/CD Integrations
+## :simple-mlflow: CI/CD Integrations
 
 [:simple-azurepipelines: Azure DevOps](./azuredevops){ .card-button }
 [:simple-github: Github](./github){ .card-button }
@@ -22,7 +22,7 @@ hide:
 
 ## :material-shield-bug-outline: Bug Tracker Integration
 
-[:simple-azurepipelines: Azure DevOps](./azuredevops#bugtracking){ .card-button }
+<!-- [:simple-azurepipelines: Azure DevOps](./azuredevops#bugtracking){ .card-button } -->
 [:simple-jira: Jira](./jira){ .card-button }
-[:simple-github: Github](./github#bugtracking){ .card-button }
-[:simple-gitlab: GitLab](./gitlab#bugtracking){ .card-button }
+<!-- [:simple-github: Github](./github#bugtracking){ .card-button }
+[:simple-gitlab: GitLab](./gitlab#bugtracking){ .card-button } -->
