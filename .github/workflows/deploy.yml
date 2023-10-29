@@ -1,7 +1,7 @@
 name: deploy
 
 env:
-  DOC_VERSION: 0.1
+  DOC_VERSION: "0.1"
 
 on:
   workflow_dispatch:
@@ -27,4 +27,4 @@ jobs:
           git config user.name mkdocs-bot
           git config user.email mkdocs-bot@example.com
           git fetch origin gh-pages --depth=1
-          mike deploy $DOC_VERSION latest --push -u
+          mike deploy ${{ env.DOC_VERSION }} latest --push -u
