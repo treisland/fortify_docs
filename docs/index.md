@@ -23,6 +23,5 @@ Using this suite of tools / products, organizations are able to integrate securi
 | Hosted |Dedicated deployment of Fortify in the cloud provider and region of your choice, managed by Micro Focus so you can focus on your AppSec program. | [learn more](https://www.microfocus.com/en-us/cyberres/secure-devops/fortify-hosted) |
 | OnDemand |Application Security-as-a-Service with security testing and vulnerability management.  | [learn more](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand) |
 
-Regardless of the deployment solution, Fortify is designed to help developers identify and fix vulnerabilities in their code, and offer a wide range of capabilities and features to support secure software development.
 
 
