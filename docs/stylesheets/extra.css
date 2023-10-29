@@ -141,17 +141,40 @@ h1{
     margin: 10px; /* Add margin for spacing */
   }
   
-  [data-md-color-scheme="slate"] .card-button {
+[data-md-color-scheme="slate"] .card-button {
     color: var(--accent);
     background-color: var(--dark);
     border-color:#ccc;
-  }
+}
 
-  .card-button:hover {
+.card-button:hover {
     background-color: #f2f2f2;
-  }
-  
-  [data-md-color-scheme="slate"] thead {
+}
+
+[data-md-color-scheme="slate"] thead {
     background-color: var(--dark);
     color: var(--accent);
-  }
+}
+
+.md-typeset .admonition.column{
+    min-width: 300px;
+    display: inline-block;
+    margin: 5px;
+    align-items: top; /* Align items to the start (top) of the container */
+    vertical-align: top;
+}
+
+.md-typeset .admonition.column,
+.md-typeset details.column {
+    border: none;
+    box-shadow: none;
+}
+
+.md-typeset .column > .admonition-title{
+    border-radius:10px;
+}
+
+.md-typeset .column > .admonition-title::before,
+.md-typeset .column > summary::before {
+    background: none;
+}
