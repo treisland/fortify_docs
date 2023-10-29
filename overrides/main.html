@@ -3,3 +3,10 @@
 {% block announce %}
 <a href="https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements/46252/opentext-fortify-software-security-content-2023-update-3" target="_blank">OpenText Fortify Software Security Content 2023 Update 3</a>
 {% endblock %}
+
+{% block outdated %}
+  You're not viewing the latest version.
+  <a href="{{ '../' ~ base_url }}"> 
+    <strong>Click here to go to latest.</strong>
+  </a>
+{% endblock %}
