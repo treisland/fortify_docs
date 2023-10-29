@@ -1,9 +1,18 @@
 site_name: Fortify DevOps Guide
-base_url: /fortify-dev-guide
+site_url: https://treisland.github.io/fortify_docs_mkdocs/
+site_author: Tre Island
+
+repo_name: treisland/fortify_docs_mkdocs
 repo_url: https://github.com/treisland/fortify_docs_mkdocs
 edit_uri: edit/main/docs/
+
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  provider: mike
+  default: latest
+
 theme:
   name: material
   custom_dir: overrides
@@ -31,6 +40,7 @@ theme:
   features:
     - announce.dismiss
     - content.action.edit
+    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
