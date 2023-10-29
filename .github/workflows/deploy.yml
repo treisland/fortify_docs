@@ -19,4 +19,6 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force
+      - run: |
+        git fetch origin gh-pages --depth=1
+        mike deploy --push ${{ env.DOC_VERSION }} latest
