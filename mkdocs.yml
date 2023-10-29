@@ -10,8 +10,9 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-  provider: mike
-  default: latest
+  version:
+    provider: mike
+    default: latest
 
 theme:
   name: material
