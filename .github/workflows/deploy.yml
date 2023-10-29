@@ -20,5 +20,7 @@ jobs:
           path: .cache
       - run: pip install -r requirements.txt
       - run: |
+          git config user.name mkdocs-bot
+          git config user.email mkdocs-bot@example.com
           git fetch origin gh-pages --depth=1
           mike deploy --push ${{ env.DOC_VERSION }} latest -u
