@@ -23,4 +23,4 @@ jobs:
           git config user.name mkdocs-bot
           git config user.email mkdocs-bot@example.com
           git fetch origin gh-pages --depth=1
-          mike deploy --push ${{ env.DOC_VERSION }} latest -u
+          mike deploy --push ${{ secrets.DOC_VERSION }} latest -u
