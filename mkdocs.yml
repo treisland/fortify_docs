@@ -7,7 +7,9 @@ repo_url: https://github.com/treisland/fortify_docs_mkdocs
 edit_uri: edit/main/docs/
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/main.css
+  - stylesheets/dark.css
+  - stylesheets/light.css
 
 extra:
   version:
@@ -24,17 +26,14 @@ theme:
     repo: fontawesome/brands/github
   favicon: assets/logo-fortify.png
   palette:
-    - scheme: default
+    - scheme: slate
       primary: black
-      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: black
-      accent: blue
+    - scheme: default
+      primary: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

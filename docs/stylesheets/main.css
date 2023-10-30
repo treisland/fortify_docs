@@ -1,0 +1,49 @@
+:root {
+    --md-admonition-icon--video: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25Zm1.75-.25a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25Z"/><path d="M6 10.559V5.442a.25.25 0 0 1 .379-.215l4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559Z"/></svg>');
+    --light-table-header: rgb(5, 5, 5);
+    --light-accent:rgba(66, 120, 209);
+    --light-primary: rgb(5, 5, 5);
+    --dark-table-header: rgb(5, 5, 5);
+    --dark-accent:rgba(66, 120, 209);
+    --dark-primary: rgb(5, 5, 5);
+}
+
+
+/* width of main content */
+
+.md-main__inner{
+    min-width:75%;
+    margin-top:0em;
+}
+
+
+.vid{
+    min-width:45em; 
+    height:30em;
+    display:block;
+    margin:auto;
+}
+
+.slide-deck{
+    width:100%; 
+    height:900px
+}
+
+/* Custom card button style */
+.card-button {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center; /* Center the text horizontally */
+    align-items: center; /* Center the text vertically */
+    width: 220px; /* Set the desired width */
+    height: 150px; /* Set the desired height */
+    padding: 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    text-align: center; /* Optionally center the text horizontally */
+    font-size: .8em;
+    font-weight: bold;
+    color: #333;
+    transition: background-color 0.3s;
+    margin: 10px; /* Add margin for spacing */
+  }

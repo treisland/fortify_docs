@@ -4,14 +4,11 @@
 
 ## Overview
 
-
-### :fortify-cyberres: <span class="marquee">What is Fortify</span>
-
 **Fortify** is a suite of software security products offered by MicroFocus. It provides a comprehensive solution for organizations to identify, manage, and remediate security risks in their software applications. Fortify offers products that support Static, Dynamic, Mobile, and Open Source scanning.
 Using this suite of tools / products, organizations are able to integrate security testing across throughout their entire SDLC and have a holistic view of an org's application security posture.
 
 
-### :fortify-cyberres: <span class="marquee">Deployment Solutions</span>
+## Deployment Solutions
 
 [:material-office-building-minus: Self-Hosted](https://www.microfocus.com/en-us/cyberres/application-security/appsec-platform){ .card-button }
 [:octicons-cloud-16: Hosted](https://www.microfocus.com/en-us/cyberres/secure-devops/fortify-hosted){ .card-button }
@@ -23,13 +20,14 @@ Using this suite of tools / products, organizations are able to integrate securi
 | Hosted |Dedicated deployment of Fortify in the cloud provider and region of your choice, managed by Micro Focus so you can focus on your AppSec program. |
 | OnDemand | A complete application Security as a Service solution with SAST, DAST, IAST, SCA, and developer security training.  |
 
-### :fortify-cyberres: <span class="marquee">Scan Offerings</span>
-[SAST](){ .card-button }
-[DAST](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){ .card-button }
-[MAST](){ .card-button }
-[IAST](){ .card-button }
-[SCA](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){ .card-button }
-[API](https://www.microfocus.com/en-us/cyberres/api-security){ .card-button }
+## Scan Offerings
+[:fortify-cyberres: Static Application Security Testing](){ .card-button }
+[:fortify-cyberres: Dynamic Application Security Testing](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){ .card-button }
+[:fortify-cyberres: Mobile Application Security Testing](){ .card-button }
+
+[:fortify-cyberres: Interactive Application Security Testing](){ .card-button }
+[:fortify-cyberres: Software Composition Analysis](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){ .card-button }
+[:fortify-cyberres: API Discovery & Testing](https://www.microfocus.com/en-us/cyberres/api-security){ .card-button }
 
 | Offering | Description |
 | --- | --- |
