@@ -21,6 +21,8 @@
 
 - [Fortify Unplugged](https://www.youtube.com/@FortifyUnplugged){:target="_blank"}
 
+- [Fortify OnDemand How-To Guides](https://share.cds.dominknow.one/735e6bb728ef9f7c4444571ab4bcfa28/81599c3d-b5f3-3b22-a261-a637095d5466/278BEC33-9098-C244-9133-2B5D9FF2BD8C/index.html){:target="_blank"}
+
 ### :fontawesome-solid-book-open-reader: Manuals
 
     
