@@ -16,6 +16,27 @@
     margin-top:0em;
 }
 
+/*invisible block for wrapping elements*/
+.md-typeset .admonition.block{
+  border: none;
+  box-shadow: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+/*invisible block for wrapping elements*/
+.md-typeset .admonition.block p{
+    text-align: center;
+  }
+
+.md-typeset .block > .admonition-title,
+.md-typeset .block > summary {
+  background: none;
+}
+.md-typeset .block > .admonition-title::before,
+.md-typeset .block > summary::before {
+  background: none;
+}
 
 .vid{
     min-width:45em; 
@@ -30,20 +51,34 @@
 }
 
 /* Custom card button style */
-.card-button {
+.card {
     display: inline-flex;
     flex-direction: column;
     justify-content: center; /* Center the text horizontally */
     align-items: center; /* Center the text vertically */
-    width: 220px; /* Set the desired width */
-    height: 150px; /* Set the desired height */
-    padding: 2px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     text-align: center; /* Optionally center the text horizontally */
-    font-size: .8em;
     font-weight: bold;
     color: #333;
     transition: background-color 0.3s;
-    margin: 10px; /* Add margin for spacing */
+    text-align: center;
+    
   }
+
+
+.card.md{
+    width: 220px; /* Set the desired width */
+    height: 150px; /* Set the desired height */
+    padding: 1px;
+    margin: 10px; /* Add margin for spacing */
+    font-size: 1.2em;
+}
+
+.card.lg {
+    width: 500px; /* Set the desired width */
+    height: 350px; /* Set the desired height */
+    padding: 2px;
+    margin: 10px; /* Add margin for spacing */
+    font-size: 2em;
+}

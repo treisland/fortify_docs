@@ -1,14 +1,11 @@
-:root {
-    --header-light: rgb(76, 166, 246);
-}
-
 /* main content text color */
 [data-md-color-scheme="default"] .md-main{
     color: black;
 }
 
 [data-md-color-scheme="default"] thead {
-    background-color: var(--header-light);
+    background-color: var(--dark-table-header);
+    color: white;
 }
 
 [data-md-color-scheme="default"] .card-button {
@@ -25,10 +22,14 @@
 }
 
 [data-md-color-scheme="default"] .md-typeset .admonition-title{
-    background-color: var(--header-light);
+    background-color: var(--dark-table-header);
     
 }
 
 [data-md-color-scheme="default"] .md-typeset .admonition.info a{
     color:rgb(153, 198, 244);
 }
+
+[data-md-color-scheme="default"] .card:hover{
+    background-color: rgb(243, 255, 6);
+  }

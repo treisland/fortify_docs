@@ -10,9 +10,11 @@ Using this suite of tools / products, organizations are able to integrate securi
 
 ## Deployment Solutions
 
-[:material-office-building-minus: Self-Hosted](https://www.microfocus.com/en-us/cyberres/application-security/appsec-platform){ .card-button }
-[:octicons-cloud-16: Hosted](https://www.microfocus.com/en-us/cyberres/secure-devops/fortify-hosted){ .card-button }
-[:fontawesome-solid-users-viewfinder: OnDemand](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand){ .card-button }
+!!! block ""
+    [:material-office-building-minus: Self-Hosted](https://www.microfocus.com/en-us/cyberres/application-security/appsec-platform){.card .md}
+    [:octicons-cloud-16: Hosted](https://www.microfocus.com/en-us/cyberres/secure-devops/fortify-hosted){.card .md}
+    [:fontawesome-solid-users-viewfinder: OnDemand](https://www.microfocus.com/en-us/cyberres/application-security/fortify-on-demand){.card .md}
+
 
 | Deployment | Description |
 | --- | --- |
@@ -20,14 +22,19 @@ Using this suite of tools / products, organizations are able to integrate securi
 | Hosted |Dedicated deployment of Fortify in the cloud provider and region of your choice, managed by Micro Focus so you can focus on your AppSec program. |
 | OnDemand | A complete application Security as a Service solution with SAST, DAST, IAST, SCA, and developer security training.  |
 
-## Scan Offerings
-[:fortify-cyberres: Static Application Security Testing](){ .card-button }
-[:fortify-cyberres: Dynamic Application Security Testing](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){ .card-button }
-[:fortify-cyberres: Mobile Application Security Testing](){ .card-button }
 
-[:fortify-cyberres: Interactive Application Security Testing](){ .card-button }
-[:fortify-cyberres: Software Composition Analysis](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){ .card-button }
-[:fortify-cyberres: API Discovery & Testing](https://www.microfocus.com/en-us/cyberres/api-security){ .card-button }
+## Scan Offerings
+
+!!! block ""
+
+    [:fortify-cyberres: SAST](){.card .md}
+    [:fortify-cyberres: DAST](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){.card .md}
+    [:fortify-cyberres: MAST](){.card .md}
+
+    [:fortify-cyberres: IAST](){.card .md}
+    [:fortify-cyberres: SCA](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){.card .md}
+    [:fortify-cyberres: API Testing](https://www.microfocus.com/en-us/cyberres/api-security){.card .md}
+
 
 | Offering | Description |
 | --- | --- |

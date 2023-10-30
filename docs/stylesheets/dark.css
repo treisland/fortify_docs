@@ -13,7 +13,7 @@
 }
 
 /* Custom card button style */
-[data-md-color-scheme="slate"] .card-button {
+[data-md-color-scheme="slate"] .card {
     border: #181818;
     background-color: #181818;
     color: lightgray;
@@ -34,3 +34,7 @@
 [data-md-color-scheme="slate"] .md-typeset .admonition.info a{
     color:rgb(153, 198, 244);
 }
+
+[data-md-color-scheme="slate"] .card:hover{
+    background-color: rgb(62, 215, 245);
+  }
