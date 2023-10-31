@@ -86,30 +86,32 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - literate-nav:
+      nav_file: summary.md
   - macros
   - mkdocs-video
   - search
   - git-revision-date-localized:
       enable_creation_date: false
       type: timeago
-nav:
-  - Home: index.md
-  - Platform: 'platform_tools/index.md'
-  - Integrations: 
-    - 'integrations/index.md'
-    - IDE:
-      - Android Studio: 'integrations/androidstudio.md'
-      - Eclipse: 'integrations/eclipse.md'
-      - IntelliJ: 'integrations/intellij.md'
-      - Visual Studio: 'integrations/visualstudio.md'
-      - Visual Studio Code: 'integrations/vscode.md'
-    - CI/CD:
-      - Azure DevOps: 'integrations/azuredevops.md'
-      - Github: 'integrations/github.md'
-      - Gitlab: 'integrations/gitlab.md'
-      - Jenkins: 'integrations/jenkins.md'
-    - BugTracking:
-      - Jira: 'integrations/jira.md'
+# nav:
+#   - Home: index.md
+#   - Platform: 'platform_tools/index.md'
+#   - Integrations: 
+#     - 'integrations/index.md'
+#     - IDE:
+#       - Android Studio: 'integrations/androidstudio.md'
+#       - Eclipse: 'integrations/eclipse.md'
+#       - IntelliJ: 'integrations/intellij.md'
+#       - Visual Studio: 'integrations/visualstudio.md'
+#       - Visual Studio Code: 'integrations/vscode.md'
+#     - CI/CD:
+#       - Azure DevOps: 'integrations/azuredevops.md'
+#       - Github: 'integrations/github.md'
+#       - Gitlab: 'integrations/gitlab.md'
+#       - Jenkins: 'integrations/jenkins.md'
+#     - BugTracking:
+#       - Jira: 'integrations/jira.md'
     
-  - Resources: 'resources.md'
-  - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'
+#   - Resources: 'resources.md'
+#   - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'

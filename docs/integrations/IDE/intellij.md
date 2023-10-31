@@ -1,3 +1,7 @@
+---
+title: IntelliJ
+---
+
 # :simple-intellijidea: IntelliJ
 
 

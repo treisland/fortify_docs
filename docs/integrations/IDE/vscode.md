@@ -1,3 +1,7 @@
+---
+title: VSCode
+---
+
 # :material-microsoft-visual-studio: VSCode
 
 ## Overview
