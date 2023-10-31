@@ -14,21 +14,21 @@
     color: #333;
   }
 
-[data-md-color-scheme="default"] .md-typeset .admonition.info{
+/* [data-md-color-scheme="default"] .md-typeset .admonition.info{
     background-color: var(--grey);
 
     border-color:rgb(2, 2, 2)
     
-}
+} */
 
-[data-md-color-scheme="default"] .md-typeset .admonition-title{
+/* [data-md-color-scheme="default"] .md-typeset .admonition-title{
     background-color: var(--dark-table-header);
     
-}
+} */
 
-[data-md-color-scheme="default"] .md-typeset .admonition.info a{
+/* [data-md-color-scheme="default"] .md-typeset .admonition.info a{
     color:rgb(153, 198, 244);
-}
+} */
 
 [data-md-color-scheme="default"] .card:hover{
     background-color: rgb(243, 255, 6);

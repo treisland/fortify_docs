@@ -1,11 +1,13 @@
-# :simple-android: Android Studio
+---
+title: Jira
+---
+
+# :simple-jira: Jira
 
 :construction: This page is currently under construction
 
 ## Overview
 
-## Docs & Links
+## CI/CD
 
-## Training Videos
-
-
+## BugTracking

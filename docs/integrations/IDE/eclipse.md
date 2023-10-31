@@ -1,3 +1,7 @@
+---
+title: Eclipse
+---
+
 # :simple-eclipseide: Eclipse
 
 
