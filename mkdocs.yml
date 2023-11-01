@@ -21,10 +21,10 @@ theme:
   custom_dir: overrides
   font:
     text: Poppins
-  logo: assets/cyberres-opentext.png
+  logo: assets/fortify_mark_electric-blue-56px.png
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/logo-fortify.png
+  favicon: assets/fortify_mark_electric-blue-56px.png
   palette:
     - scheme: slate
       primary: black
