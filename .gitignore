@@ -73,3 +73,6 @@ ENV/
 site*/
 
 .vscode/*
+
+# local environment file
+env.yml

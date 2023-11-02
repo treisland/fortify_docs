@@ -1,9 +1,9 @@
-site_name: Fortify DevOps Guide
-site_url: https://treisland.github.io/fortify_docs/
-site_author: Tre Island
+site_name: !ENV SITE_NAME
+site_url: !ENV SITE_URL
 
-repo_name: treisland/fortify_docs
-repo_url: https://github.com/treisland/fortify_docs
+repo_name: !ENV REPO_NAME
+repo_url: !ENV REPO_URL
+
 edit_uri: edit/main/docs/
 
 extra_css:

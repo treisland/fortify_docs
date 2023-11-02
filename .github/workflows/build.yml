@@ -4,6 +4,13 @@ on:
   pull_request:
     branches:
       main
+env:
+  REPO_NAME: ${{ vars.REPO_NAME }}
+  REPO_URL: ${{ vars.REPO_URL}}
+
+  SITE_NAME: ${{ vars.SITE_NAME }}
+  SITE_URL: ${{ vars.SITE_URL }}
+
 permissions:
   contents: write
 jobs:
@@ -18,4 +25,8 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: MKDocs Build
+        run: mkdocs build --clean

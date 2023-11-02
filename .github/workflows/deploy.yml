@@ -1,18 +1,26 @@
 name: deploy
 
-env:
-  DOC_VERSION: "0.1.4"
-
 on:
   workflow_dispatch:
   push:
-    branches: 
+    branches:
       - main
+
+env:
+  DOC_VERSION: "0.1.4"
+  REPO_NAME: ${{ vars.REPO_NAME }}
+  REPO_URL: ${{ vars.REPO_URL}}
+
+  SITE_NAME: ${{ vars.SITE_NAME }}
+  SITE_URL: ${{ vars.SITE_URL }}
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -22,10 +30,20 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install -r requirements.txt
-      - run: |
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure Git
+        run: |
           git config user.name mkdocs-bot
           git config user.email mkdocs-bot@example.com
-          git fetch origin gh-pages --depth=1
-          mike set-default latest
-          mike deploy ${{ env.DOC_VERSION }} latest --push -u
+
+      - name: Deploy to Github pages
+        run: |
+          if [ -n "${{ env.DOC_VERSION }}" ]; then
+            mike set-default latest
+            mike deploy ${{ env.DOC_VERSION }} latest --push -u
+          else
+            mkdocs gh-deploy --force
+          fi
