@@ -25,9 +25,9 @@
 }
 
 /*invisible block for wrapping elements*/
-.md-typeset .admonition.block p{
+/* .md-typeset .admonition.block p{
     text-align: center;
-  }
+  } */
 
 .md-typeset .block > .admonition-title,
 .md-typeset .block > summary {
