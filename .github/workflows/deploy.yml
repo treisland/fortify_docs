@@ -7,7 +7,7 @@ on:
       - main
 
 env:
-  DOC_VERSION: "0.1.5"
+  # DOC_VERSION: "0.1.5"
   REPO_NAME: ${{ vars.REPO_NAME }}
   REPO_URL: ${{ vars.REPO_URL}}
 
