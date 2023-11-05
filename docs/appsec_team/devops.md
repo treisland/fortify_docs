@@ -1,5 +1,7 @@
 ---
 title: DevOps
+search:
+    exclude: true
 ---
 
 # Bridge the Gap: The DevOps Engineer's Role in Application Security and Build Pipelines

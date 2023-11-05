@@ -1,5 +1,7 @@
 ---
 title: Security Analyst
+search:
+    exclude: true
 ---
 
 # Securing Software with Fortify: The Role of a Security Analyst

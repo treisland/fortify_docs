@@ -1,6 +1,7 @@
 ---
 title: Developer
-hide: navigation
+search:
+    exclude: true
 ---
 # Empowering Developers with Fortify: Enhancing Code Security
 

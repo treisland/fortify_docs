@@ -1,8 +1,10 @@
 ---
 title: Eclipse
+search:
+    boost: 2
 ---
 
-# :simple-eclipseide: Eclipse
+# :simple-eclipseide: How to the Eclipse Fortify Plugin
 
 
 ## Overview

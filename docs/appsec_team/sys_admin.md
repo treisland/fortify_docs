@@ -1,5 +1,7 @@
 ---
 title: System Administrator
+search:
+    exclude: true
 ---
 
 # Building a Secure Foundation: The Role of a System Administrator in Fortify Installation
