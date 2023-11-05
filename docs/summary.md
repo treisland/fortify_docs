@@ -1,7 +1,3 @@
 * [Home](index.md)
-    * [Deployments](fortify_101/deployments.md)
-    * [Scanning Solutions](fortify_101/solutions.md)
-    * [Tools](fortify_101/tools.md)
-* [Integrations](integrations/)
-* [Day In the Life](day_in_the_life/)
+    * [Tools and Capabilities](capabilities.md)
 * [Resources](resources/)
