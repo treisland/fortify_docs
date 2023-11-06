@@ -85,15 +85,24 @@ markdown_extensions:
       title: Table Of Contents
 
 plugins:
+  - blog:
   - glightbox
-  - literate-nav:
-      nav_file: summary.md
   - macros
   - mkdocs-video
   - search
   - git-revision-date-localized:
       enable_creation_date: false
       type: timeago
+  - tags:
+      tags_file: tags.md
+
+nav:
+  - Home: index.md
+  - Guides: 
+      - blog/index.md
+  - Tags: tags.md
+  - Resources: resources.md
+
 # nav:
 #   - Home: index.md
 #   - Platform: 'platform_tools/index.md'
