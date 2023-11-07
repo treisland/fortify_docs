@@ -3,10 +3,9 @@ title: How to Install Fortify VSCode Extension
 authors: [treprime]
 date: 2023-11-06
 categories:
-    - developer
-tags:
-    - ide
     - vscode
+tags:
+    - developer
 ---
 
 Follow this guide to learn how to quickly install the Fortify extension for VSCode.

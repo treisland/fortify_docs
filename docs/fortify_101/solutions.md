@@ -1,18 +1,15 @@
-# Fortify Docs and Guides
-
-> Learn about the Fortify Platform
-
-## Overview
-
-**Fortify** is a suite of software security products offered by MicroFocus. It provides a comprehensive solution for organizations to identify, manage, and remediate security risks in their software applications. 
-
-Fortify offers products that support Static, Dynamic, Mobile, and Open Source scanning.
-
-Using this suite of tools / products, organizations are able to integrate security testing across throughout their entire SDLC and have a holistic view of an org's application security posture.
+# Scanning Solutions
 
 
+[:fortify-cyberres: SAST](){.card .md}
+[:fortify-cyberres: DAST](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){.card .md}
+[:fortify-cyberres: MAST](){.card .md}
 
-| Offering | Description |
+[:fortify-cyberres: IAST](){.card .md}
+[:fortify-cyberres: SCA](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){.card .md}
+[:fortify-cyberres: API](https://www.microfocus.com/en-us/cyberres/api-security){.card .md}
+
+| Solution | Description |
 | --- | --- |
 | SAST | Perform security analysis on source code. Easily integrates with your developers’ toolchain to scan code, show results, and assist in vulnerability removal. Over 30+ languages supported |
 | DAST | Identifies application vulnerabilities in deployed web applications and services. |

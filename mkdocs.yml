@@ -97,10 +97,17 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - Home: index.md
+  - Home: 
+    - index.md
+    - Deployments: fortify_101/deployments.md
+    - Solutions: fortify_101/solutions.md
+    - Languages: fortify_101/languages.md
+    - Integrations: fortify_101/integrations.md
+    - Tools: fortify_101/tools.md
   - Guides: 
       - blog/index.md
   - Tags: tags.md
+  - FAQ: faq.md
   - Resources: resources.md
 
 # nav:
