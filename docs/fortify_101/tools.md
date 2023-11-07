@@ -23,21 +23,3 @@
 | Static Code Analyzer  | SAST |  :white_check_mark:  | :white_check_mark: | :white_check_mark: | Description | 
 | WebInspect  | DAST, MAST, API |:white_check_mark:  | :white_check_mark: | :white_check_mark: | Description | 
 | WebInspect Agent | IAST |:white_check_mark:  | :white_check_mark: | :white_check_mark: | Description | 
-
-## Build Tools
-
-- Ant
-- Gradle
-- Maven
-- MSBuild
-- Xcodebuild
-
-## Compilers
-
-- gcc
-- g++
-- OpenJDK javac
-- Oracle javac
-- cl (MSCVC)
-- Clang
-- Swiftc
