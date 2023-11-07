@@ -10,13 +10,3 @@ Fortify offers products that support Static, Dynamic, Mobile, and Open Source sc
 
 Using this suite of tools / products, organizations are able to integrate security testing across throughout their entire SDLC and have a holistic view of an org's application security posture.
 
-
-
-| Offering | Description |
-| --- | --- |
-| SAST | Perform security analysis on source code. Easily integrates with your developers’ toolchain to scan code, show results, and assist in vulnerability removal. Over 30+ languages supported |
-| DAST | Identifies application vulnerabilities in deployed web applications and services. |
-| MAST | Scan and reviews your mobile app's code, behavior, and configurations. It pinpoints vulnerabilities that could compromise your users' data and ensures your mobile apps are robust against potential security threats|
-| IAST | Actively monitor applications in real-time, identifying and reporting vulnerabilities as they arise |
-| SCA | Seamlessly integrate open source security into your DevSecOps lifecycle with security scanning and policy automation. |
-| API | Innovative API discovery and testing for any application, throughout the software lifecycle. |
