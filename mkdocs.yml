@@ -101,6 +101,7 @@ nav:
     - index.md
     - Deployments: fortify_101/deployments.md
     - Solutions: fortify_101/solutions.md
+    - Testing Tools: fortify_101/tools.md
     - Languages: fortify_101/languages.md
     - Integrations: fortify_101/integrations.md
   - Guides: 
