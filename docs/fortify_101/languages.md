@@ -136,3 +136,9 @@
 - cl (MSCVC)
 - Clang
 - Swiftc
+
+## Vulncat
+
+Vulncat is a classification scheme for software security errors, organized into seven plus one pernicious kingdoms. Each vulnerability category is accompanied by a detailed description of the issue with references to original sources, and code excerpts, where applicable, to better illustrate the problem. The primary goal of defining this taxonomy is to organize sets of security rules that can be used to help software developers understand the kinds of errors that have an impact on security. By better understanding how systems fail, developers will better analyze the systems they create, more readily identify and address security problems when they see them, and generally avoid repeating the same mistakes in the future.
+
+!!! tip "See the [Vulncat website](https://vulncat.fortify.com/en) for more info"
