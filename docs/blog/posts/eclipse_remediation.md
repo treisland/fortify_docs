@@ -1,13 +1,20 @@
 ---
-title: Eclipse
+date: 2023-11-08
+authors: [treprime]
+categories:
+    - IDE
 search:
     boost: 2
 ---
 
-# :simple-eclipseide: How to the Eclipse Fortify Plugin
+# How to use the Fortify Remediation Plugin for Eclipse
 
+The Fortify Remediation Plugin for Eclipse works together with Fortify Software Security Center to add remediation functionality to your software security analysis. The Fortify Remediation Plugin for Eclipse is a lightweight plugin option for developers who do not need the scanning and auditing capabilities of Fortify Audit Workbench and the Fortify Complete Plugin for Eclipse.
+
+<!-- more -->
 
 ## Overview
+
 The Fortify Plugin for Eclipse, included with the Fortify SCA installer, consists of three separate plugin components:
 
 **Audit** – Enables you to open existing scan results and audit them. These results include detailed descriptions of the security vulnerabilities detected and recommended remediation strategies. The audit plugin component helps security code inspection by enabling you to easily navigate to the source code location associated with each vulnerability, and then prioritize and audit the results.
@@ -18,7 +25,7 @@ The Fortify Plugin for Eclipse, included with the Fortify SCA installer, consist
 Note: For information about supported versions of Eclipse, see the Micro Focus Fortify Software System Requirements document
 
 ## Docs & Links
-[User Guide](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2220/Eclipse_Plugin_Help_22.2.0/index.htm)
+[User Guide](https://www.microfocus.com/documentation/fortify-remediation-plugin-for-eclipse/)
 
 ## Training Videos
 

@@ -15,7 +15,7 @@ extra:
   version:
     provider: mike
     default: latest
-
+  
 theme:
   name: material
   custom_dir: overrides
@@ -103,7 +103,6 @@ nav:
     - Solutions: fortify_101/solutions.md
     - Languages: fortify_101/languages.md
     - Integrations: fortify_101/integrations.md
-    - Tools: fortify_101/tools.md
   - Guides: 
       - blog/index.md
   - Tags: tags.md

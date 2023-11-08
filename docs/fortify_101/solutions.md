@@ -1,11 +1,11 @@
 # Scanning Solutions
 
 
-[:fortify-cyberres: SAST](){.card .md}
+[:fortify-cyberres: SAST](https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer){.card .md}
 [:fortify-cyberres: DAST](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){.card .md}
-[:fortify-cyberres: MAST](){.card .md}
+[:fortify-cyberres: MAST](https://www.microfocus.com/en-us/cyberres/application-security/mobile-application-security){.card .md}
 
-[:fortify-cyberres: IAST](){.card .md}
+[:fortify-cyberres: IAST](https://www.microfocus.com/documentation/fortify-webinspect/2310/WI_Agent_Install_Help_23.1.0/index.htm){.card .md}
 [:fortify-cyberres: SCA](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis){.card .md}
 [:fortify-cyberres: API](https://www.microfocus.com/en-us/cyberres/api-security){.card .md}
 

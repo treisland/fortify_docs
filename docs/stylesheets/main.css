@@ -25,6 +25,15 @@
 }
 
 /*invisible block for wrapping elements*/
+.md-typeset .admonition.grid{
+  border: 1px solid black;
+  box-shadow: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/*invisible block for wrapping elements*/
 /* .md-typeset .admonition.block p{
     text-align: center;
   } */
@@ -33,9 +42,16 @@
 .md-typeset .block > summary {
   background: none;
 }
-.md-typeset .block > .admonition-title::before,
-.md-typeset .block > summary::before {
+
+.md-typeset .grid > .admonition-title,
+.md-typeset .grid > summary {
   background: none;
+}
+
+
+.md-typeset .block > ul {
+  display: inline-flex;
+  border: 1px solid #cccccc;
 }
 
 .vid{
@@ -56,7 +72,7 @@
     flex-direction: column;
     justify-content: center; /* Center the text horizontally */
     align-items: center; /* Center the text vertically */
-    border-radius: 10px;
+    /* border-radius: 10px; */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     text-align: center; /* Optionally center the text horizontally */
     font-weight: bold;

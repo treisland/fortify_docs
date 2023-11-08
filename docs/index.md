@@ -8,5 +8,4 @@
 
 Fortify offers products that support Static, Dynamic, Mobile, and Open Source scanning.
 
-Using this suite of tools / products, organizations are able to integrate security testing across throughout their entire SDLC and have a holistic view of an org's application security posture.
-
+By utilizing the Fortify platform, organizations are able to integrate security testing across throughout their entire SDLC and have a holistic view of an org's application security posture.
