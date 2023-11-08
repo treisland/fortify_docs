@@ -5,6 +5,8 @@
     [:fortify-cyberres: WebInspect](https://www.microfocus.com/en-us/cyberres/application-security/webinspect){.card .md}
     [:fortify-cyberres: Scan Central](https://www.microfocus.com/en-us/cyberres/application-security/scancentral){.card .md}
     [:fortify-cyberres: Debricked](https://www.microfocus.com/en-us/cyberres/debricked){.card .md}
+
+!!! block ""
     [:fortify-cyberres: SonaType](https://www.microfocus.com/en-us/cyberres/application-security/software-composition-analysis/sonatype){.card .md}
     [:fortify-cyberres: Security Assistant](https://www.microfocus.com/documentation/fortify-security-assistant-plugin-for-eclipse/){.card .md}
     [:fortify-cyberres: Audit Assistant](https://www.microfocus.com/en-us/cyberres/application-security/audit-assistant){.card .md}
