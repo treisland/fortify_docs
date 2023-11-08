@@ -4,24 +4,7 @@
 
 ## Learning Material
 
-### :material-robot-outline: AI
-
-- [OpenText Aviator](- [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}){:target="_blank"}
-
-- [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}
-
-- [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
-    
-
-### :simple-googleclassroom: Training
-
-- [Cyberres After Hours Training](https://community.microfocus.com/cyberres/fortify/fortify-education-after-hours/f/forum/509597/direct-one-click-quick-access-to-our-free-fortify-digital-learning-offerings/1902189){:target="_blank"}
-
-- [Code Security Webinars](https://cyberres.swoogo.com/codesecuritywebinarseries){:target="_blank"}
-
-- [Fortify Unplugged](https://www.youtube.com/@FortifyUnplugged){:target="_blank"}
-
-- [Fortify OnDemand How-To Guides](https://share.cds.dominknow.one/735e6bb728ef9f7c4444571ab4bcfa28/81599c3d-b5f3-3b22-a261-a637095d5466/278BEC33-9098-C244-9133-2B5D9FF2BD8C/index.html){:target="_blank"}
+[:fortify-cyberres: Product Page](https://www.microfocus.com/en-us/cyberres/application-security)
 
 ### :fontawesome-solid-book-open-reader: Manuals
 
@@ -43,6 +26,25 @@
 - [SonaType / Nexus IQ Server](https://help.sonatype.com/iqserver){:target="_blank"}
 
 
+### :simple-googleclassroom: Training
+
+- [Cyberres After Hours Training](https://community.microfocus.com/cyberres/fortify/fortify-education-after-hours/f/forum/509597/direct-one-click-quick-access-to-our-free-fortify-digital-learning-offerings/1902189){:target="_blank"}
+
+- [Code Security Webinars](https://cyberres.swoogo.com/codesecuritywebinarseries){:target="_blank"}
+
+- [Fortify Unplugged](https://www.youtube.com/@FortifyUnplugged){:target="_blank"}
+
+- [Fortify OnDemand How-To Guides](https://share.cds.dominknow.one/735e6bb728ef9f7c4444571ab4bcfa28/81599c3d-b5f3-3b22-a261-a637095d5466/278BEC33-9098-C244-9133-2B5D9FF2BD8C/index.html){:target="_blank"}
+
+### :material-robot-outline: AI
+
+- [OpenText Aviator](- [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}){:target="_blank"}
+
+- [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}
+
+- [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
+    
+    
 ## Plugins & Integrations
 
 ### :simple-mlflow: CI/CD
