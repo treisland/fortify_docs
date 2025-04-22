@@ -2,6 +2,12 @@
 
 > Here you fill find helpful resources to get you up to speed on the suite of Fortify products and how you can use them to best fit your needs.
 
+## Latest Security Content Rulepacks
+
+- [25.2]](https://community.opentext.com/cybersec/fortify/w/tips/50359/opentext-application-security-content-fortify-update-25-2){:target="_blank"}
+- [25.1](https://community.opentext.com/cybersec/fortify/w/tips/49563/fortify-software-security-content-update-25-1){:target="_blank"}
+- [24.2](https://community.opentext.com/cybersec/fortify/w/tips/48066/fortify-software-security-content-2024-update-2){:target="_blank"}
+
 ## Learning Material
 
 [:fortify-cyberres: Product Page](https://www.microfocus.com/en-us/cyberres/application-security)
