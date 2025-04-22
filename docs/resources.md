@@ -121,7 +121,7 @@
 - [Fortify on Demand FedRAMP](https://intra.microfocus.net/media/documentation/fortify-on-demand-united-states-public-sector-service-documentation.pdf){:target="_blank"}
 
 
-- [Fortify on Demand Standard](https://www.microfocus.com/pnx/media/guide/fortify-on-demand-service-description.pdf){:target="_blank"}
+- [Fortify on Demand Standard](https://www.opentext.com/media/documentation/fortify-hosted-service-description-documentation-en.pdf){:target="_blank"}
 
 - [Debricked on SaaS](https://www.microfocus.com/pnx/media/documentation/micro-focus-debricked-on-software-as-a-service-description-documentation.pdf){:target="_blank"}
     
