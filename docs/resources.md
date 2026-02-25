@@ -2,8 +2,15 @@
 
 > Here you fill find helpful resources to get you up to speed on the suite of Fortify products and how you can use them to best fit your needs.
 
+- [What's New with 26.1](https://community.opentext.com/cybersec/fortify/w/tips/53109/what-s-new-in-opentext-sast-fortify-static-code-analyzer-26-1){:target="_blank"}
+  
+- [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
+
+
 ## Latest Security Content Rulepacks
 
+- [26.1](https://community.opentext.com/cybersec/fortify/w/tips/53110/opentext-application-security-content-fortify-update-26-1){:target="_blank"}
+- [25.4](https://community.opentext.com/cybersec/fortify/w/tips/52074/opentext-application-security-content-fortify-update-25-4){:target="_blank"}
 - [25.2](https://community.opentext.com/cybersec/fortify/w/tips/50359/opentext-application-security-content-fortify-update-25-2){:target="_blank"}
 - [25.1](https://community.opentext.com/cybersec/fortify/w/tips/49563/fortify-software-security-content-update-25-1){:target="_blank"}
 - [24.2](https://community.opentext.com/cybersec/fortify/w/tips/48066/fortify-software-security-content-2024-update-2){:target="_blank"}
@@ -46,11 +53,11 @@
 
 ### :material-robot-outline: AI
 
-- [OpenText Aviator](- [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}){:target="_blank"}
+- [OpenText Aviator Introductory Demo: Secure Smarter, Not Harder](https://www.youtube.com/watch?v=Usxza1xsEr8){:target="_blank"}
+
+- [AI-Powered SAST in Action: Core SAST Aviator Demo from OpenText](https://www.youtube.com/watch?v=FMrqhHlHKKg){:target="_blank"}
 
 - [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}
-
-- [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
     
     
 ## Plugins & Integrations
