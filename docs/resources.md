@@ -6,6 +6,7 @@
   
 - [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
 
+- [Fortify Command Line Utility (FCLI)](https://github.com/fortify/fcli/){:target="_blank"}
 
 ## Latest Security Content Rulepacks
 
@@ -56,6 +57,8 @@
 - [OpenText Aviator Introductory Demo: Secure Smarter, Not Harder](https://www.youtube.com/watch?v=Usxza1xsEr8){:target="_blank"}
 
 - [AI-Powered SAST in Action: Core SAST Aviator Demo from OpenText](https://www.youtube.com/watch?v=FMrqhHlHKKg){:target="_blank"}
+
+- [Integrating OpenText Application Security with AI Agents via MCP](https://www.youtube.com/watch?v=8GTW1bypdbc){:target="_blank"}
 
 - [OpenText Aviator-Video Playlist](https://www.youtube.com/watch?v=zMlnwWyI-nE&list=PLj5HckTzmnM4zpzPGxvSJqimLl5xCsKN_&pp=iAQB){:target="_blank"}
     
