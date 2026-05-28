@@ -1,40 +1,59 @@
 :root {
-    --header-dark: rgb(20, 20, 20);
+    --header-dark: #0A0E27;
+    --card-bg-dark: #141829;
+    --text-light: #E0E7FF;
 }
 
-/* main content text color */
-[data-md-color-scheme="slate"] .md-main{
-    color: lightgray;
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #0066FF;
+    --md-accent-fg-color: #00D9FF;
 }
 
+[data-md-color-scheme="slate"] .md-main {
+    color: var(--text-light);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+    background: linear-gradient(90deg, var(--header-dark) 0%, #1a1f3a 100%);
+}
 
 [data-md-color-scheme="slate"] thead {
-    background-color: var(--header-dark);
+    background: linear-gradient(90deg, #0066FF 0%, #00D9FF 100%);
+    color: white;
 }
 
-/* Custom card button style */
 [data-md-color-scheme="slate"] .card {
-    border: #181818;
-    background-color: #181818;
-    color: lightgray;
+    background: linear-gradient(135deg, var(--card-bg-dark) 0%, #1a1f3a 100%);
+    color: var(--text-light);
+    border: 1px solid rgba(0, 102, 255, 0.2);
 }
 
-/* [data-md-color-scheme="slate"] .md-typeset .admonition.info{
-    background-color: var(--grey);
+[data-md-color-scheme="slate"] .card:hover {
+    background: linear-gradient(135deg, #1a2332 0%, #252d45 100%);
+    box-shadow: 0 12px 24px rgba(0, 102, 255, 0.3);
+}
 
-    border-color:rgb(2, 2, 2)
-    
-} */
+[data-md-color-scheme="slate"] .md-typeset a {
+    color: #00D9FF;
+}
 
-/* [data-md-color-scheme="slate"] .md-typeset .admonition-title{
-    background-color: black;
-    
-} */
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+    color: #0066FF;
+}
 
-/* [data-md-color-scheme="slate"] .md-typeset .admonition.info a{
-    color:rgb(153, 198, 244);
-} */
+[data-md-color-scheme="slate"] code {
+    background: rgba(0, 102, 255, 0.15);
+    color: #00D9FF;
+}
 
-/* [data-md-color-scheme="slate"] .card:hover{
-    background-color: rgb(62, 215, 245);
-  } */
+[data-md-color-scheme="slate"] .md-typeset pre {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition {
+    background: rgba(20, 24, 41, 0.6);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.block {
+    background: transparent;
+}

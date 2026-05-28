@@ -76,3 +76,6 @@ site*/
 
 # local environment file
 env.yml
+
+# Claude Code
+.claude/

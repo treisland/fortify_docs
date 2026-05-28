@@ -1,10 +1,6 @@
-site_name: !ENV SITE_NAME
-site_url: !ENV SITE_URL
+site_name: Fortify Developer Guide
+site_url: https://fortify-docs.example.com
 
-repo_name: !ENV REPO_NAME
-repo_url: !ENV REPO_URL
-
-edit_uri: edit/main/docs/
 
 extra_css:
   - stylesheets/main.css
@@ -20,27 +16,25 @@ theme:
   name: material
   custom_dir: overrides
   font:
-    text: Poppins
+    text: 'Segoe UI'
   logo: assets/fortify_mark_electric-blue-56px.png
-  icon:
-    repo: fontawesome/brands/github
   favicon: assets/fortify_mark_electric-blue-56px.png
   palette:
     - scheme: slate
-      primary: black
+      primary: blue
+      accent: cyan
       toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
+        icon: material/brightness-7
+        name: Switch to light mode
+    
     - scheme: default
-      primary: black
+      primary: blue
+      accent: cyan
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to dark mode
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
@@ -75,8 +69,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
           - overrides/.icons
@@ -97,37 +91,17 @@ plugins:
       tags_file: tags.md
 
 nav:
-  - Home: 
-    - index.md
-    - Deployments: fortify_101/deployments.md
-    - Solutions: fortify_101/solutions.md
-    - Testing Tools: fortify_101/tools.md
-    - Languages: fortify_101/languages.md
-    - Integrations: fortify_101/integrations.md
-  - Guides: 
+  - Home: index.md
+  - Platform:
+      - Deployments: fortify_101/deployments.md
+      - Solutions:
+          - Overview: fortify_101/solutions.md
+          - Testing Tools: fortify_101/tools.md
+      - Languages: fortify_101/languages.md
+      - Integrations: fortify_101/integrations.md
+  - Guides:
       - blog/index.md
-  - Tags: tags.md
-  - FAQ: faq.md
   - Resources: resources.md
+  - Downloads & Support: downloads.md
+  - FAQ: faq.md
 
-# nav:
-#   - Home: index.md
-#   - Platform: 'platform_tools/index.md'
-#   - Integrations: 
-#     - 'integrations/index.md'
-#     - IDE:
-#       - Android Studio: 'integrations/androidstudio.md'
-#       - Eclipse: 'integrations/eclipse.md'
-#       - IntelliJ: 'integrations/intellij.md'
-#       - Visual Studio: 'integrations/visualstudio.md'
-#       - Visual Studio Code: 'integrations/vscode.md'
-#     - CI/CD:
-#       - Azure DevOps: 'integrations/azuredevops.md'
-#       - Github: 'integrations/github.md'
-#       - Gitlab: 'integrations/gitlab.md'
-#       - Jenkins: 'integrations/jenkins.md'
-#     - BugTracking:
-#       - Jira: 'integrations/jira.md'
-    
-#   - Resources: 'resources.md'
-#   - Announcements: 'https://community.microfocus.com/cyberres/fortify/w/fortify-product-announcements'

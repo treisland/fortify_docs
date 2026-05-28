@@ -1,131 +1,126 @@
 # Software Language Support
 
-> Over 30+ languages supported
+> 33+ languages supported
 
 ## Languages
 
+!!! block ""
+    :material-dot-net: .NET (Core · Framework)
+    {.card .md}
 
-:fortify-empty: .NET
-{.card .md}
+    :simple-sap: ABAP/BSP
+    {.card .md}
 
-:material-dot-net: .NET Core
-{.card .md}
+    :simple-adobe: ActionScript
+    {.card .md}
 
-:material-dot-net: .NET Framework
-{.card .md}
+    :material-code-tags: Apex
+    {.card .md}
 
-:simple-sap: ABAP/BSP
-{.card .md}
+    :material-code-tags: C#
+    {.card .md}
 
-:simple-adobe: ActionScript
-{.card .md}
+    :simple-cplusplus: C/C++
+    {.card .md}
 
-:fortify-empty: Apex
-{.card .md}
+    :material-code-tags: Classic ASP
+    {.card .md}
 
-:fortify-empty: C#
-{.card .md}
+    :material-code-tags: COBOL
+    {.card .md}
 
-:simple-cplusplus: C/C++
-{.card .md}
+    :fortify-coldfusion: ColdFusion
+    {.card .md}
 
-:fortify-empty: Classic ASP
-{.card .md}
+    :simple-dart: Dart
+    {.card .md}
 
-:fortify-empty: COBOL
-{.card .md}
+    :material-docker: Docker
+    {.card .md}
 
-:fortify-coldfusion: ColdFusion
-{.card .md}
+    :simple-hashicorp: HCL
+    {.card .md}
 
-:simple-dart: Dart
-{.card .md}
+    :simple-html5: HTML
+    {.card .md}
 
-:material-docker: Docker
-{.card .md}
+    :fontawesome-brands-java: Java
+    {.card .md}
 
-:simple-hashicorp: HCL
-{.card .md}
+    :simple-javascript: JavaScript
+    {.card .md}
 
-:simple-html5: HTML
-{.card .md}
+    :material-code-json: JSON
+    {.card .md}
 
-:fontawesome-brands-java: Java
-{.card .md}
+    :material-language-javascript: JSP
+    {.card .md}
 
-:simple-javascript: JavaScript
-{.card .md}
+    :simple-kotlin: Kotlin
+    {.card .md}
 
-:material-code-json: JSON
-{.card .md}
+    :simple-adobe: MXML (Flex)
+    {.card .md}
 
-:material-language-javascript: JSP
-{.card .md}
+    :material-code-tags: Objective-C/C++
+    {.card .md}
 
-:simple-kotlin: Kotlin
-{.card .md}
+    :simple-php: PHP
+    {.card .md}
 
-:simple-adobe: MXML (Flex)
-{.card .md}
+    :material-database: PL/SQL
+    {.card .md}
 
-:fortify-empty: Objective-C/C++
-{.card .md}
+    :simple-python: Python
+    {.card .md}
 
-:simple-php: PHP
-{.card .md}
+    :simple-ruby: Ruby
+    {.card .md}
 
-:material-database: PL/SQL
-{.card .md}
+    :simple-scala: Scala
+    {.card .md}
 
-:simple-python: Python
-{.card .md}
+    :simple-swift: Swift
+    {.card .md}
 
-:simple-ruby: Ruby
-{.card .md}
+    :material-database: T-SQL
+    {.card .md}
 
-:simple-scala: Scala
-{.card .md}
+    :simple-typescript: TypeScript
+    {.card .md}
 
-:simple-swift: Swift
-{.card .md}
+    :simple-visualbasic: VBScript
+    {.card .md}
 
-:material-database: T-SQL
-{.card .md}
+    :simple-visualbasic: Visual Basic
+    {.card .md}
 
-:simple-typescript: TypeScript
-{.card .md}
+    :simple-visualbasic: VB.NET
+    {.card .md}
 
-:simple-visualbasic: VBScript
-{.card .md}
+    :material-xml: XML
+    {.card .md}
 
-:simple-visualbasic: Visual Basic
-{.card .md}
-
-:simple-visualbasic: VB.NET
-{.card .md}
-
-:material-xml: XML
-{.card .md}
-
-:simple-yaml: YAML
-{.card .md}
+    :simple-yaml: YAML
+    {.card .md}
 
 ## Build Tools
 
-:ant: Ant
-{.card .md}
+!!! block ""
+    :material-hammer: Ant
+    {.card .md}
 
-:simple-gradle: Gradle
-{.card .md}
+    :simple-gradle: Gradle
+    {.card .md}
 
-:simple-apachemaven: Maven
-{.card .md}
+    :simple-apachemaven: Maven
+    {.card .md}
 
-:fortify-empty: MSBuild
-{.card .md}
+    :material-code-tags: MSBuild
+    {.card .md}
 
-:simple-xcode: Xcodebuild
-{.card .md}
+    :simple-xcode: Xcodebuild
+    {.card .md}
 
 ## Compilers
 
@@ -139,6 +134,6 @@
 
 ## Vulncat
 
-Vulncat is a classification scheme for software security errors, organized into seven plus one pernicious kingdoms. Each vulnerability category is accompanied by a detailed description of the issue with references to original sources, and code excerpts, where applicable, to better illustrate the problem. The primary goal of defining this taxonomy is to organize sets of security rules that can be used to help software developers understand the kinds of errors that have an impact on security. By better understanding how systems fail, developers will better analyze the systems they create, more readily identify and address security problems when they see them, and generally avoid repeating the same mistakes in the future.
+Fortify's vulnerability classification taxonomy, organizing security errors into seven kingdoms with descriptions, references, and code examples.
 
-!!! tip "See the [Vulncat website](https://vulncat.fortify.com/en) for more info"
+!!! tip "See the [Vulncat website](https://vulncat.fortify.com/en) for the full reference"
