@@ -2,7 +2,7 @@
 
 > Application security testing across the full SDLC
 
-**Fortify** is OpenText's suite of application security products — providing SAST, DAST, MAST, IAST, SCA, and API testing for organizations of any size, integrated across your entire development toolchain.
+**Fortify** is OpenText's suite of application security products — providing SAST, DAST, SCA, MAST, IAST, and API testing for organizations of any size, integrated across your entire development toolchain.
 
 ## Platform
 
