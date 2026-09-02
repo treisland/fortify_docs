@@ -1,0 +1,59 @@
+:root {
+    --header-dark: #0A0E27;
+    --card-bg-dark: #141829;
+    --text-light: #E0E7FF;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #0066FF;
+    --md-accent-fg-color: #00D9FF;
+}
+
+[data-md-color-scheme="slate"] .md-main {
+    color: var(--text-light);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+    background: linear-gradient(90deg, var(--header-dark) 0%, #1a1f3a 100%);
+}
+
+[data-md-color-scheme="slate"] thead {
+    background: linear-gradient(90deg, #0066FF 0%, #00D9FF 100%);
+    color: white;
+}
+
+[data-md-color-scheme="slate"] .card {
+    background: linear-gradient(135deg, var(--card-bg-dark) 0%, #1a1f3a 100%);
+    color: var(--text-light);
+    border: 1px solid rgba(0, 102, 255, 0.2);
+}
+
+[data-md-color-scheme="slate"] .card:hover {
+    background: linear-gradient(135deg, #1a2332 0%, #252d45 100%);
+    box-shadow: 0 12px 24px rgba(0, 102, 255, 0.3);
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+    color: #00D9FF;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+    color: #0066FF;
+}
+
+[data-md-color-scheme="slate"] code {
+    background: rgba(0, 102, 255, 0.15);
+    color: #00D9FF;
+}
+
+[data-md-color-scheme="slate"] .md-typeset pre {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition {
+    background: rgba(20, 24, 41, 0.6);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.block {
+    background: transparent;
+}
