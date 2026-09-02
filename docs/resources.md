@@ -4,11 +4,15 @@
 
 ## What's New
 
+- [Fortify SAST 26.3](https://community.opentext.com/cybersec/fortify/w/tips/54055/opentext-fortify-static-application-security-testing-sast-26-3)
+- [Fortify SAST 26.2](https://community.opentext.com/cybersec/fortify/w/tips/53857/what-s-new-in-opentext-sast-fortify-static-code-analyzer-26-2)
 - [What's New with 26.1](https://community.opentext.com/cybersec/fortify/w/tips/53109/what-s-new-in-opentext-sast-fortify-static-code-analyzer-26-1){:target="_blank"}
-- [OpenText World](https://www.opentextworld.com/event/beacc05a-8cb5-4816-bcb3-071e997eeb20/websitePage:3fcc1662-6f7c-422f-a582-eb307dfce3c7){:target="_blank"}
+
 
 ## Latest Security Content Rulepacks
 
+- [26.3](https://community.opentext.com/cybersec/fortify/w/tips/54037/opentext-fortify-application-security-content-update-26-3)
+- [26.2](https://community.opentext.com/cybersec/fortify/w/tips/53815/opentext-application-security-content-fortify-update-26-2)
 - [26.1](https://community.opentext.com/cybersec/fortify/w/tips/53110/opentext-application-security-content-fortify-update-26-1){:target="_blank"}
 - [25.4](https://community.opentext.com/cybersec/fortify/w/tips/52074/opentext-application-security-content-fortify-update-25-4){:target="_blank"}
 - [25.2](https://community.opentext.com/cybersec/fortify/w/tips/50359/opentext-application-security-content-fortify-update-25-2){:target="_blank"}
