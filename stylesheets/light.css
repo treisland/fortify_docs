@@ -1,0 +1,60 @@
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #0066FF;
+    --md-accent-fg-color: #00D9FF;
+    /* Makes header text/icons dark instead of the default white-on-blue */
+    --md-primary-bg-color: #1a1a1a;
+    --md-primary-bg-color--light: rgba(26, 26, 26, 0.54);
+}
+
+[data-md-color-scheme="default"] .md-main {
+    color: #1a1a1a;
+}
+
+[data-md-color-scheme="default"] .md-header {
+    background: linear-gradient(90deg, #ffffff 0%, #f5f7fa 100%);
+    box-shadow: 0 2px 8px rgba(0, 102, 255, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-search__input {
+    background: rgba(0, 0, 0, 0.06);
+    color: #1a1a1a;
+}
+
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+    color: rgba(26, 26, 26, 0.5);
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+    background: #f0f4ff;
+}
+
+[data-md-color-scheme="default"] .md-tabs__link {
+    color: rgba(26, 26, 26, 0.7);
+}
+
+[data-md-color-scheme="default"] .md-tabs__link--active,
+[data-md-color-scheme="default"] .md-tabs__link:hover {
+    color: var(--color-primary);
+    opacity: 1;
+}
+
+[data-md-color-scheme="default"] thead {
+    background: linear-gradient(90deg, #0066FF 0%, #00D9FF 100%);
+    color: white;
+}
+
+[data-md-color-scheme="default"] .card {
+    background: linear-gradient(135deg, #ffffff 0%, #f5f7fa 100%);
+    color: #1a1a1a;
+    border: 1px solid #e0e7ff;
+}
+
+[data-md-color-scheme="default"] .card:hover {
+    background: linear-gradient(135deg, #f0f4ff 0%, #e0e7ff 100%);
+    box-shadow: 0 12px 24px rgba(0, 102, 255, 0.15);
+}
+
+[data-md-color-scheme="default"] code {
+    background: rgba(0, 102, 255, 0.08);
+    color: #0066FF;
+}
